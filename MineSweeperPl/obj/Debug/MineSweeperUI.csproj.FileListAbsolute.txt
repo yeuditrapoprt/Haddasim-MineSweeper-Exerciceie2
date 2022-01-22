@@ -1,0 +1,13 @@
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\bin\Debug\MineSweeperPl.exe
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\bin\Debug\MineSweeperPl.pdb
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\bin\Debug\minesweeper.dll
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\bin\Debug\minesweeper.pdb
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\obj\Debug\MineSweeperUI.csprojAssemblyReference.cache
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\obj\Debug\MineSweeperUI.FrmCustom.resources
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\obj\Debug\MineSweeperUI.FrmGame.resources
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\obj\Debug\MineSweeperPl.Properties.Resources.resources
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\obj\Debug\MineSweeperUI.csproj.GenerateResource.cache
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\obj\Debug\MineSweeperUI.csproj.CoreCompileInputs.cache
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\obj\Debug\MineSweeperUI.csproj.CopyComplete
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\obj\Debug\MineSweeperPl.exe
+C:\Users\רפפורט\Desktop\Backup\MineSweeperPl\obj\Debug\MineSweeperPl.pdb

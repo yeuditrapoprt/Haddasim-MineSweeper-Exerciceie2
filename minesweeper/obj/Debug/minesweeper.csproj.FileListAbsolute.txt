@@ -1,0 +1,6 @@
+C:\Users\רפפורט\Desktop\Backup\minesweeper\bin\Debug\minesweeper.dll
+C:\Users\רפפורט\Desktop\Backup\minesweeper\bin\Debug\minesweeper.pdb
+C:\Users\רפפורט\Desktop\Backup\minesweeper\obj\Debug\minesweeper.csprojAssemblyReference.cache
+C:\Users\רפפורט\Desktop\Backup\minesweeper\obj\Debug\minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\רפפורט\Desktop\Backup\minesweeper\obj\Debug\minesweeper.dll
+C:\Users\רפפורט\Desktop\Backup\minesweeper\obj\Debug\minesweeper.pdb
